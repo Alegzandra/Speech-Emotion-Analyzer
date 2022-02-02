@@ -1,6 +1,8 @@
 # Inference on Pre-recorded audio samples
 ```$ python inference.py```
-Change file name in line 14 of inference.py
+Change file name in line 14 of inference.py  
+
+inference_chuncked.py lets the user analyze emotions in longer wav files.
 
 
 
